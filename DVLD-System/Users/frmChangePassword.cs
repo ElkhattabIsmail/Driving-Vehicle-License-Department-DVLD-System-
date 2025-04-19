@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using DVLD_Buisness;
+using DVLD_BuisnessLayer;
 using static System.Net.Mime.MediaTypeNames;
 
 namespace C19_Project.Users

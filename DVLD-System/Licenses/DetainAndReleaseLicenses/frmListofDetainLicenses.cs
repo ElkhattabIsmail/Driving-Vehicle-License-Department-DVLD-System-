@@ -2,7 +2,7 @@
 using C19_Project.Licenses.DetainAndReleaseLicenses.Release_Detained_Licenses;
 using C19_Project.Licenses.International_Licenses;
 using C19_Project.People;
-using DVLD_Buisness;
+using DVLD_BuisnessLayer;
 using System;
 using System.ComponentModel;
 using System.Data;

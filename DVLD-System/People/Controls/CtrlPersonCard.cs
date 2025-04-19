@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Windows.Forms;
-using DVLD_Buisness;
+using DVLD_BuisnessLayer;
 
 namespace C19_Project.People.Controls
 {

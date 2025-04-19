@@ -34,8 +34,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DVLD_Buisness">
-      <HintPath>..\..\..\..\Downloads\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll</HintPath>
+    <Reference Include="DVLD_BusinessLayer">
+      <HintPath>..\DVLD_BusinessLayer\bin\Debug\DVLD_BusinessLayer.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Logging.Configuration, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL" />
     <Reference Include="System" />

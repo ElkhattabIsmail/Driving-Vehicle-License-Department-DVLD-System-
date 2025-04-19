@@ -1,5 +1,5 @@
 ﻿using C19_Project.OtherClasses;
-using DVLD_Buisness;
+using DVLD_BuisnessLayer;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

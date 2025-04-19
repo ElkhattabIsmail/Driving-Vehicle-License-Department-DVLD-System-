@@ -160,7 +160,7 @@
             this.ctrlSchuduledTest1.Name = "ctrlSchuduledTest1";
             this.ctrlSchuduledTest1.Size = new System.Drawing.Size(698, 538);
             this.ctrlSchuduledTest1.TabIndex = 0;
-            this.ctrlSchuduledTest1.TestTypeID = DVLD_Buisness.clsTestType.enTestType.VisionTest;
+            this.ctrlSchuduledTest1.TestTypeID = DVLD_BuisnessLayer.clsTestType.enTestType.VisionTest;
             // 
             // frmTakeTest
             // 

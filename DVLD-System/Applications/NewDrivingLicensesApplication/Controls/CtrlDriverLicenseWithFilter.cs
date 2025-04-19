@@ -1,6 +1,6 @@
 ﻿using C19_Project.ManageAppsTests.Controls;
 using C19_Project.People.Controls;
-using DVLD_Buisness;
+using DVLD_BuisnessLayer;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

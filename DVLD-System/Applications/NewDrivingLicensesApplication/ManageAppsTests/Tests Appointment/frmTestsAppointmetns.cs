@@ -1,5 +1,5 @@
 ﻿using C19_Project.Properties;
-using DVLD_Buisness;
+using DVLD_BuisnessLayer;
 using System;
 using System.Data;
 using System.Drawing;

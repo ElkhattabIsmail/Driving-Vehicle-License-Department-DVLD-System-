@@ -1,7 +1,7 @@
 ﻿using C19_Project.Licenses;
 using C19_Project.Licenses.International_Licenses;
 using C19_Project.OtherClasses;
-using DVLD_Buisness;
+using DVLD_BuisnessLayer;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,7 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static DVLD_Buisness.clsLicense;
+using static DVLD_BuisnessLayer.clsLicense;
 
 namespace C19_Project.Applications.Replacement_For_Lost_or_Damaged_Local_Licenses
 {
