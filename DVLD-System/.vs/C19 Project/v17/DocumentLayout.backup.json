@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|c:\\users\\ultrapc\\onedrive\\bureau\\all courses with programming advices\\dvld-system\\loginform\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|solutionrelative:loginform\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\users\\frmadd_update_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|solutionrelative:users\\frmadd_update_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\users\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|solutionrelative:users\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\people\\controls\\ctrlfilterperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|solutionrelative:people\\controls\\ctrlfilterperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\licenses\\frmlicenseshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|solutionrelative:licenses\\frmlicenseshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\users\\frmadd_update_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|solutionrelative:users\\frmadd_update_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\users\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|solutionrelative:users\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|solutionrelative:people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\people\\controls\\ctrlfilterperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|solutionrelative:people\\controls\\ctrlfilterperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\licenses\\frmlicenseshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A243535-DC58-4EC4-ADD7-BA479755EF25}|C19 Project.csproj|solutionrelative:licenses\\frmlicenseshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 39,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\LoginForm\\frmLogin.cs",
+              "RelativeDocumentMoniker": "LoginForm\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\LoginForm\\frmLogin.cs [Design]",
+              "RelativeToolTip": "LoginForm\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:46:37.997Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmManageUsers.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\Users\\frmManageUsers.cs",
+              "RelativeDocumentMoniker": "Users\\frmManageUsers.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\Users\\frmManageUsers.cs",
+              "RelativeToolTip": "Users\\frmManageUsers.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAD4v7YAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:32:29.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmManageUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\Users\\frmManageUsers.cs",
+              "RelativeDocumentMoniker": "Users\\frmManageUsers.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\C19 Project\\Users\\frmManageUsers.cs [Design]",
+              "RelativeToolTip": "..\\C19 Project\\Users\\frmManageUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:31:06.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CtrlPersonCard.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\People\\Controls\\CtrlPersonCard.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\CtrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\People\\Controls\\CtrlPersonCard.cs",
+              "RelativeToolTip": "People\\Controls\\CtrlPersonCard.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv3gAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:17:46.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CtrlFilterPerson.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\People\\Controls\\CtrlFilterPerson.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\CtrlFilterPerson.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\People\\Controls\\CtrlFilterPerson.cs",
+              "RelativeToolTip": "People\\Controls\\CtrlFilterPerson.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA5wEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:11:04.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAdd_Update_User.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\Users\\frmAdd_Update_User.cs",
+              "RelativeDocumentMoniker": "Users\\frmAdd_Update_User.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\Users\\frmAdd_Update_User.cs",
+              "RelativeToolTip": "Users\\frmAdd_Update_User.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAIwDwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:41:26.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAdd_Update_User.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\Users\\frmAdd_Update_User.cs",
+              "RelativeDocumentMoniker": "Users\\frmAdd_Update_User.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\C19 Project\\Users\\frmAdd_Update_User.cs [Design]",
+              "RelativeToolTip": "..\\C19 Project\\Users\\frmAdd_Update_User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:47:44.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLicensesHistory.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\Licenses\\frmLicensesHistory.cs",
+              "RelativeDocumentMoniker": "Licenses\\frmLicensesHistory.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\Licenses\\frmLicensesHistory.cs",
+              "RelativeToolTip": "Licenses\\frmLicensesHistory.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:43:26.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLicensesHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\Licenses\\frmLicensesHistory.cs",
+              "RelativeDocumentMoniker": "Licenses\\frmLicensesHistory.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\C19 Project\\Licenses\\frmLicensesHistory.cs [Design]",
+              "RelativeToolTip": "..\\C19 Project\\Licenses\\frmLicensesHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:43:23.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CtrlFilterPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\DVLD-System\\People\\Controls\\CtrlFilterPerson.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\CtrlFilterPerson.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\C19 Project\\People\\Controls\\CtrlFilterPerson.cs [Design]",
+              "RelativeToolTip": "..\\C19 Project\\People\\Controls\\CtrlFilterPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:36:57.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
